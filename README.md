@@ -37,8 +37,13 @@ The objective of this project was to create a detailed wireframe for a mobile ap
 
 ### Technologies Used  
 - **Figma**: For wireframe design and prototyping.  
-- **UI/UX Design Principles**: To ensure a modern and functional app layout.  
+- **UI/UX Design Principles**: To ensure a modern and functional app layout.
+  
+---
 
+## Figma Link  
+You can view the detailed wireframe design in Figma using the following link:  
+[**View Wireframe on Figma**](https://www.figma.com/design/Q6ohwSTdanAfd654PSu6LN/task1?node-id=0-1&t=lKkiMXDBXFpmvoB4-1)
 ---
 
 ## Contact Information  
